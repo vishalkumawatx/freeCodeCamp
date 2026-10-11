@@ -1,0 +1,4 @@
+github-comment-updater manifest v1
+Listed paths: original contents were not changed.
+Paths are JSON-quoted; reasons describe conservative exclusions.
+"package.json"	unsupported format
